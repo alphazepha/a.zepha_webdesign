@@ -13,9 +13,25 @@ font-family: Verdana, serif;
 color: #5E5E5E;
 }
 
+.frame{
+margin: auto;
+}
+
 .striche{
-height: 600px;
-margin-left: 30px;
+height: 620px;
+margin-left: 80px;
 margin-top: auto;
 margin-bottom: auto;
+}
+
+#navi{
+display: block;
+list-style-type: none;
+width: auto;
+}
+
+.navi a{
+width: auto;
+text-decoration: none;
+text-transform:capitalize;
 }
