@@ -1,0 +1,21 @@
+/* --- CSS RESET --- */
+ {
+    padding: 0;
+    margin: 0;
+}
+
+:focus {outline: 0;}
+
+body{
+background-color: #B8860B;
+font-size: 16px;
+font-family: Verdana, serif;
+color: #5E5E5E;
+}
+
+.striche{
+height: 600px;
+margin-left: 30px;
+margin-top: auto;
+margin-bottom: auto;
+}
