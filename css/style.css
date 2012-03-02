@@ -31,8 +31,25 @@ list-style-type: none;
 width: auto;
 }
 
-.navi a{
+.navi{
 width: auto;
+height: auto;
+padding: 0;
+list-style-type: none;
+}
+
+.button{
+width: auto;
+font-size: 17px;
+margin-left: 23px;
+padding: 3px 10px 2px 10px;
+}
+
+
+.navi li a{ 
 text-decoration: none;
+display: block;
+color: #5E5E5E;
+font-family: helvetica,sans-serif;
 text-transform: uppercase;
 }
