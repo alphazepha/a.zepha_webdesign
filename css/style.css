@@ -29,6 +29,9 @@ margin-bottom: auto;
 display: block;
 list-style-type: none;
 width: auto;
+float: right;
+margin-right: 30px;
+margin-top: 10px;
 }
 
 .navi{
@@ -53,4 +56,5 @@ display: block;
 color: #5E5E5E;
 font-family: helvetica,sans-serif;
 text-transform: uppercase;
+font-weight: 400;
 }
